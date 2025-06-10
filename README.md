@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left" style="borderradius:36px; border: 1px solid #white;">🕷️ Creating bugs since 2025<br>🧙🏼‍♀️ Wizzard in Frontend development – especially HTML, CSS, and JavaScript. I'm currently leveling up through part-time training to become a software developer!<br>🔭 I'm currently learnig JavaScript<br>🗨️ Ask me about Web development, balancing a full-time job with learning, pescetarian cooking, gym workouts, personal finance goals – or anime & manga recommendations!<br>🎯 My goals: <br>- Become a professional frontend developer <br>- Launch my first major software project  <br>- Share more cool projects on GitHub<br>🎲 Fun fact: I'm addicted to spicy food 🌶️</p>
+<p align="left" style="border-radius: 36px; border: 1px solid white;">🕷️ Creating bugs since 2025<br>🧙🏼‍♀️ Wizzard in Frontend development – especially HTML, CSS, and JavaScript. I'm currently leveling up through part-time training to become a software developer!<br>🔭 I'm currently learnig JavaScript<br>🗨️ Ask me about Web development, balancing a full-time job with learning, pescetarian cooking, gym workouts, personal finance goals – or anime & manga recommendations!<br>🎯 My goals: <br>- Become a professional frontend developer <br>- Launch my first major software project  <br>- Share more cool projects on GitHub<br>🎲 Fun fact: I'm addicted to spicy food 🌶️</p>
 
 ###
 
