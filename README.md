@@ -43,10 +43,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/stefanie-vengels-5207a71aa" target="_blank" style="text-decoration:none;">
+<div align="left" style="font-size: 0;">
+  <a href="https://www.linkedin.com/in/stefanie-vengels-5207a71aa" target="_blank" style="text-decoration:none; display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="display:block;" />
-  </a><a href="https://discord.com/users/935248609908256859" target="_blank" style="text-decoration:none; margin-left:8px;">
+  </a>
+  <a href="https://discord.com/users/935248609908256859" target="_blank" style="text-decoration:none; display:inline-block; margin-left:8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="display:block;" />
   </a>
 </div>
