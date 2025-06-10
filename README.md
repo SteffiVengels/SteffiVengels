@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="left" underline="none">
   <a href="www.linkedin.com/in/stefanie-vengels-5207a71aa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
