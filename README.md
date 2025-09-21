@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">✉️ Email: vengels.stefanie@gmail.com</p>
+<a class="email_text" href="mailto:contact@stefanie-vengels.dev">contact@stefanie-vengels.dev</a>
 
 ###
 
