@@ -3,7 +3,7 @@
 ###
 
 <p align="left">📌 My name is Steffi and I'm a frontend developer from Essen, now expanding into software development & DevSecOps.<br>
-:point_right: Check my projects here: <a href="https://stefanie-vengels.dev/">stefanie-vengels.dev</a></p>
+:point_right: Check my projects here: <a href="https://stefanie-vengels.dev/" target="_blank">stefanie-vengels.dev</a></p>
 
 
 ###
