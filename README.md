@@ -2,13 +2,19 @@
 
 ###
 
-<p align="left">📌 My name is Steffi and I'm a frontend developer from Essen.</p>
+<p align="left">📌 My name is Steffi and I'm a frontend developer from Essen, now expanding into software development & DevSecOps.<br>
+:point_right: Check my projects here: <a href="https://stefanie-vengels.dev/">stefanie-vengels.dev</a></p>
+
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
+
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/SteffiVengels/SteffiVengels/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -34,7 +40,7 @@
 
 ###
 
-<p align="left">🕷️ Creating bugs since 2025<br>🧙🏼‍♀️ Wizzard in Frontend development – especially HTML, CSS, and JavaScript. I'm currently leveling up through part-time training to become a software developer!<br>🔭 I'm currently learnig Angular<br>🗨️ Ask me about Web development, balancing a full-time job with learning, vegan cooking, gym workouts – or anime & manga recommendations!<br>🎯 My goals: <br>- Become a professional frontend developer <br>- Launch my first major software project  <br>- Share more cool projects on GitHub<br>🎲 Fun fact: I'm addicted to spicy food 🌶️</p>
+<p align="left">🕷️ Creating bugs since 2025<br>🧙🏼‍♀️ Wizzard in Frontend development – especially HTML, CSS, and JavaScript.<br>🎓 Since July 2026 I'm retraining full-time as a software developer (German "Fachinformatikerin für Anwendungsentwicklung" program).<br>🔐 On the side I'm diving into DevSecOps – documenting my journey on my blog (see pinned repo below).<br>🔭 Currently learning Python<br>🗨️ Ask me about web development, my career switch into IT, vegan cooking – or anime & manga recommendations!<br>🎯 My goals: <br>- Become a professional software developer <br>- Grow into DevSecOps <br>- Ship and share more projects on GitHub<br>🎲 Fun fact: I'm addicted to spicy food 🌶️</p>
 
 ###
 
